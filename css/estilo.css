@@ -1,0 +1,139 @@
+#caja{
+    width: auto;
+    height: 1000px;
+    background-color: rgb(59, 160, 228);
+    margin: auto;
+}
+#cabeza{
+    width: 220px;
+    height: 220px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    left: 325px;
+    top: 120px;
+    border-radius: 500px;
+}
+#oreja{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    left: -35px;
+    top: -20px;
+    border-radius: 500px;
+}
+#oreja2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    left: 160px;
+    top: -120px;
+    border-radius: 500px;
+}
+#ojo{
+    width: 30px;
+    height: 30px;
+    background-color: azure;
+    border-radius: 50px;
+    border-color: black;
+    position: relative;
+    left: 60px;
+    bottom: 120px;
+
+}
+#ojo2{
+    width: 30px;
+    height: 30px;
+    background-color: azure;
+    border-radius: 50px;
+    border-color: black;
+    position: relative;
+    left: 120px;
+    bottom: 150px;
+}
+#nariz{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    border-color: black;
+    position: relative;
+    left: 90px;
+    bottom: 150px;
+}
+#iris{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute; 
+}
+#cuerpo{
+    width: 330px;
+    height: 355px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    border-radius: 50%;
+    left: 275px;
+    bottom: 685px;
+}
+#panza{
+    width: 250px;
+    height: 280px;
+    background-color: black;
+    position: relative;
+    border-radius: 50%;
+    left: 45px;
+    top: 60px;
+}
+#mano1{
+    width: 120px;
+    height: 210px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    border-radius: 50%;
+    left: 200px;
+    bottom: 1120px;
+    rotate: 120deg;
+}
+#mano2{
+    width: 120px;
+    height: 210px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    border-radius: 50%;
+    left: 555px;
+    bottom: 1320px;
+    rotate: -120deg;
+}
+#pie1{
+    width: 120px;
+    height: 180px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    border-radius: 50%;
+    left: 555px;
+    bottom: 1230px;
+    rotate: -80deg;
+}
+#pie2{
+    width: 120px;
+    height: 180px;
+    background-color: rgb(179, 146, 55);
+    position: relative;
+    border-radius: 50%;
+    left: 220px;
+    bottom: 1400px;
+    rotate: -120deg;
+}
+#boca{
+    width: 90px;
+    height: 14px;
+    background-color: azure;
+    border-radius: 50px;
+   
+    position: relative;
+    left: 70px;
+    bottom: 135px;
+}
